@@ -13,7 +13,7 @@ namespace _001_Migrations
         {
             using ( var context = new LibraryContext())
             {
-                var book = new Book { Author = "Remark", Title = "The Road Back" };
+                var book = new Book { Author = "Remark", Title = "The Road Back" , IsBlokBaster = false};
 
                 context.Books.Add(book);
                 context.SaveChanges();

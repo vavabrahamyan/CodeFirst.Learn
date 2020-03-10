@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Migrations", "001_Migrations\001_Migrations.csproj", "{C4A26FA0-BCF2-47B0-8559-C0CAA80765B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Migration", "002_Migration\002_Migration.csproj", "{4910C286-5496-4458-A926-07AC276E6140}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Migrations", "003_Migrations\003_Migrations.csproj", "{56108FF8-110A-42C5-9640-145B397A1DC4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{C4A26FA0-BCF2-47B0-8559-C0CAA80765B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4A26FA0-BCF2-47B0-8559-C0CAA80765B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4A26FA0-BCF2-47B0-8559-C0CAA80765B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4910C286-5496-4458-A926-07AC276E6140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4910C286-5496-4458-A926-07AC276E6140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4910C286-5496-4458-A926-07AC276E6140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4910C286-5496-4458-A926-07AC276E6140}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56108FF8-110A-42C5-9640-145B397A1DC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56108FF8-110A-42C5-9640-145B397A1DC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56108FF8-110A-42C5-9640-145B397A1DC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56108FF8-110A-42C5-9640-145B397A1DC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
