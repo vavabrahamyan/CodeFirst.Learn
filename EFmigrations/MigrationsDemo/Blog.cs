@@ -11,10 +11,6 @@ namespace MigrationsDemo
         {
 
         }
-        public BlogContext(string connectionString):base(connectionString)
-        {
-
-        }
         public DbSet<Blog> Blogs { get; set; }
     }
     public class Blog
