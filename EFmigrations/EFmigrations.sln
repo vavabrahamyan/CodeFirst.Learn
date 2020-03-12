@@ -7,7 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Migrations", "001_Migra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Migration", "002_Migration\002_Migration.csproj", "{4910C286-5496-4458-A926-07AC276E6140}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Migrations", "003_Migrations\003_Migrations.csproj", "{56108FF8-110A-42C5-9640-145B397A1DC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003_Migrations", "003_Migrations\003_Migrations.csproj", "{56108FF8-110A-42C5-9640-145B397A1DC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MigrationsDemo", "MigrationsDemo\MigrationsDemo.csproj", "{BEB73296-FF58-4790-8138-53AED169391A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{56108FF8-110A-42C5-9640-145B397A1DC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56108FF8-110A-42C5-9640-145B397A1DC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56108FF8-110A-42C5-9640-145B397A1DC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEB73296-FF58-4790-8138-53AED169391A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEB73296-FF58-4790-8138-53AED169391A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEB73296-FF58-4790-8138-53AED169391A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEB73296-FF58-4790-8138-53AED169391A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
